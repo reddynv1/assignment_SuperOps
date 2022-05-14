@@ -1,0 +1,9 @@
+region       = "us-east-1"
+project_name = "Assignment_project"
+vpc_cidr     = "172.31.0.0/16"
+subnet_bit   = "2"  
+ami          = "ami-0022f774911c1d690"          
+type         = "t2.micro"
+access_key = ""
+secret_key = ""
+asg_count  = 1
